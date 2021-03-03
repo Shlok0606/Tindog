@@ -1,0 +1,90 @@
+#title {
+  background-color: #f14668;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.heading {
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+  padding-bottom: 15px;
+  padding-top: 2.5rem;
+}
+
+.button {
+  margin: 5% 3% 3% 0;
+}
+
+.container-fluid {
+  padding: 3%;
+}
+
+.brand {
+  font-family: "Ubuntu";
+  font-size: 3rem;
+  font-weight: bolder;
+}
+
+.img1 {
+  height: 80%;
+  width: 45%;
+  position: relative;
+  left: 100px;
+  transform: rotate(20deg);
+}
+
+.plans {
+  font-family: "Ubuntu";
+  font-size: 1.5em;
+  font-weight: bolder;
+}
+
+#features {
+  font-size: 1em;
+  margin: 4rem 0;
+  font-weight: bold;
+  text-align: center;
+}
+
+.points {
+  font-size: 2rem;
+  font-weight: bolder;
+}
+
+.testi1 {
+  text-align: center;
+  background-color: #f14668;
+}
+
+.testihead {
+  color: white;
+}
+
+.heartl {
+  margin: 0;
+  height: 70%;
+  width: 70%;
+}
+
+.heartr {
+  height: 70%;
+  width: 70%;
+  margin: 0;
+}
+
+.black {
+  background-color: black;
+}
+
+.sponsers {
+  margin: 2rem 0;
+}
+
+#cta {
+  background-color: #f14668;
+}
+
+#press {
+  padding: 0 5rem;
+}
